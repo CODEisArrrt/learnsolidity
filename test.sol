@@ -4,5 +4,5 @@ pragma solidity >=0.7.0 <0.9.0;
 
 contract Test {
     uint256 public i
-    
+    i
 }
